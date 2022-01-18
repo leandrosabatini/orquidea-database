@@ -1,10 +1,92 @@
 [
     {
+        "id": 0,
         "nome": "Phalaenopsis amabilis",
-        "cor": "Branco"
+        "descricao": "Branco",
+        "floracao": "blabla",
+        "sol": "mnmnm",
+        "agua": "jkjhk",
+        "pragas": "edle"
     },
     {
+        "id": 1,
         "nome": "Phalaenopsis schilleriana",
-        "cor": "Rosa"
+        "descricao": "Branco",
+        "floracao": "blabla",
+        "sol": "mnmnm",
+        "agua": "jkjhk",
+        "pragas": "edle"
+    },
+    {
+        "id": 2,
+        "nome": "Phalaenopsis Blume",
+        "descricao": "Branco",
+        "floracao": "blabla",
+        "sol": "mnmnm",
+        "agua": "jkjhk",
+        "pragas": "edle"
+    },
+    {
+        "id": 3,
+        "nome": "Cattleya intermediária",
+        "descricao": "Branco",
+        "floracao": "blabla",
+        "sol": "mnmnm",
+        "agua": "jkjhk",
+        "pragas": "edle"
+    },
+    {
+        "id": 4,
+        "nome": "Sapatinho",
+        "descricao": "Branco",
+        "floracao": "blabla",
+        "sol": "mnmnm",
+        "agua": "jkjhk",
+        "pragas": "edle"
+    },
+    {
+        "id": 5,
+        "nome": "Sharry-baby ",
+        "descricao": "Branco",
+        "floracao": "blabla",
+        "sol": "mnmnm",
+        "agua": "jkjhk",
+        "pragas": "edle"
+    },
+    {
+        "id": 6,
+        "nome": "Oncidium",
+        "descricao": "Branco",
+        "floracao": "blabla",
+        "sol": "mnmnm",
+        "agua": "jkjhk",
+        "pragas": "edle"
+    },
+    {
+        "id": 7,
+        "nome": "Cymbidium",
+        "descricao": "Branco",
+        "floracao": "blabla",
+        "sol": "mnmnm",
+        "agua": "jkjhk",
+        "pragas": "edle"
+    },
+    {
+        "id": 8,
+        "nome": "Dendrobium",
+        "descricao": "Branco",
+        "floracao": "blabla",
+        "sol": "mnmnm",
+        "agua": "jkjhk",
+        "pragas": "edle"
+    },
+    {
+        "id": 9,
+        "nome": "Denphal",
+        "descricao": "Branco",
+        "floracao": "blabla",
+        "sol": "mnmnm",
+        "agua": "jkjhk",
+        "pragas": "edle"
     }
 ]
